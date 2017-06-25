@@ -1,1 +1,2 @@
 # Machine-Learning-Course_Stanford
+This course teaches me how to apply the most advanced machine learning algorithms to such problems as anti-spam, image recognition, clustering, building recommender systems, and many other problems. This course also help me know how to select the right algorithm for the right job, as well as become expert at 'debugging' and figuring out how to improve a learning algorithm's performance.
